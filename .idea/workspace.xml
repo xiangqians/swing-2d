@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="swing-2d:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="816934c3-849d-44f6-8e30-cc7a39ac45d7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/swing_2d$ApplicationMain.ic" NAME="ApplicationMain Coverage Results" MODIFIED="1576334812864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.xiangqian.s2d.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="swing-2d" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>util</find>
+      <find>frame</find>
+      <find>AbstractChangedListener</find>
+      <find>String text</find>
+      <find>parentComponent</find>
+      <find>linePoint1.getX()</find>
+      <find>linePoint1.getY()</find>
+      <find>linePoint2.getX()</find>
+      <find>linePoint2.getY(</find>
+      <find>linePoint2.getY()</find>
+      <find>setg</find>
+      <find>Height</find>
+      <find>Angle</find>
+      <find>chang</find>
+      <find>rang</find>
+      <find>GraphicsModifier</find>
+      <find>Panel</find>
+      <find>ChangedListener</find>
+      <find>Cache</find>
+      <find>setLayout</find>
+      <find>FlowLayout</find>
+      <find>getArrow1</find>
+      <find>2</find>
+      <find>1</find>
+      <find>SharedPool.get(SharedPool.DrawPanelShare.class).get().refresh()</find>
+      <find>falpha</find>
+      <find>VerifyIntersectShape</find>
+      <find>Polyline</find>
+      <find>POLYLINE</find>
+      <find>java -jar swing-2d.jar</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>Integer integer</replace>
+      <replace>x1</replace>
+      <replace>y1</replace>
+      <replace>x2</replace>
+      <replace>y2</replace>
+      <replace>refreshDrawPanel()</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/java/workspace-idea-work/iimp-gradle" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gmodifier/unclosed/UnclosedGraphicsModifier.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/closed/ArrowGraphicsParser.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/closed/RectGraphicsParser.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gmodifier/unclosed/PolylineGraphicsModifier.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/conf/ConfFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/container/drawpanel/CustomKeyListener.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/container/drawpanel/CustomMouseListener.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/container/drawpanel/DrawPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/container/frame/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/container/menubar/CustomMenuBar.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/container/toolbar/CustomToolBar.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/expand/component/ColorPlus.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/expand/component/StrokePlus.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/attr/Font.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/attr/RGB.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Arrow.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/ClosedGraphics.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Ellipse.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Image.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Polygon.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Rect.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Text.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/unclosed/Line.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/unclosed/Point.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/unclosed/Polyline.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/unclosed/UnclosedGraphics.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/Graphics.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/GraphicsFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/GraphicsType.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gmodifier/GraphicsModifier.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/entities/Graphics2DPainter.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/entities/VerifyIntersectShape.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/event/Event.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/event/EventAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/event/EventAttribute.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/event/EventListener.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/event/MouseButton.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/unclosed/LineGraphicsParser.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/unclosed/PolylineGraphicsParser.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/unclosed/UnclosedGraphicsParser.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/AbstractGraphicsParser.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/GraphicsParser.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/GraphicsParserFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/shared/SharedPool.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/util/ArrowUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/util/IOUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/util/JSONUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/util/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/xiangqian/s2d/ApplicationMain.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../build_tools/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\develop\java\build_tools\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="20" />
+    <option name="width" value="1760" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="expand" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="expand" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="expand" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="expand" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="intermediate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="expand" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="expand" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="gentities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="gentities" type="462c0819:PsiDirectoryNode" />
+              <item name="attr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="gentities" type="462c0819:PsiDirectoryNode" />
+              <item name="closed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="gentities" type="462c0819:PsiDirectoryNode" />
+              <item name="unclosed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="gparser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="gparser" type="462c0819:PsiDirectoryNode" />
+              <item name="closed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="gparser" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="gparser" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="gparser" type="462c0819:PsiDirectoryNode" />
+              <item name="unclosed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swing-2d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swing-2d" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="s2d" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiangqian.s2d.expand.component" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\develop\java\workspace_idea_git\swing-2d\pack" />
+      <recent name="E:\develop\java\workspace_idea_git\swing-2d" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ApplicationMain">
+    <configuration name="ApplicationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiangqian.s2d.ApplicationMain" />
+      <module name="swing-2d" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangqian.s2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ColorChooserTableRowPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiangqian.s2d.expand.container.intermediate.ColorChooserTableRowPanel" />
+      <module name="swing-2d" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangqian.s2d.expand.container.top.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ColorPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiangqian.s2d.expand.component.ColorPlus" />
+      <module name="swing-2d" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangqian.s2d.expand.component.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ConfFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiangqian.s2d.conf.ConfFactory" />
+      <module name="swing-2d" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangqian.s2d.conf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiangqian.s2d.util.Test" />
+      <module name="swing-2d" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiangqian.s2d.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ApplicationMain" />
+      <item itemvalue="Application.ConfFactory" />
+      <item itemvalue="Application.ColorChooserTableRowPanel" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ColorPlus" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationMain" />
+        <item itemvalue="Application.ColorPlus" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ColorChooserTableRowPanel" />
+        <item itemvalue="Application.ConfFactory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="816934c3-849d-44f6-8e30-cc7a39ac45d7" name="Default" comment="" />
+      <created>1575036107053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575036107053</updated>
+      <workItem from="1575036112290" duration="5702000" />
+      <workItem from="1575089995940" duration="27079000" />
+      <workItem from="1575124947159" duration="233000" />
+      <workItem from="1575125336039" duration="256000" />
+      <workItem from="1575166744912" duration="26186000" />
+      <workItem from="1576296689159" duration="29144000" />
+      <workItem from="1576384221434" duration="19006000" />
+      <workItem from="1576935444032" duration="2443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="110049000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="44" y="16" width="1408" height="768" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.4039088" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17752443" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49122807" visible="true" weight="0.22" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="4" sideWeight="0.50877196" side_tool="true" weight="0.18666667" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="5" sideWeight="0.501938" side_tool="true" weight="0.20592593" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32962963" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/expand/container/intermediate/DoubleTableRowPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/expand/container/intermediate/FloatTableRowPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/expand/container/intermediate/TextTableRowPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/expand/container/top/PopUpWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/expand/listener/ChangedListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/expand/listener/StrChangedListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/attr/Font.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/attr/RGB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Arrow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Ellipse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Polygon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Rect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/closed/Text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/unclosed/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/unclosed/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/unclosed/Polyline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/unclosed/UnclosedGraphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gentities/GraphicsType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gmodifier/closed/ClosedGraphicsModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gmodifier/unclosed/LineGraphicsModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gmodifier/unclosed/UnclosedGraphicsModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gmodifier/unclosed/PolylineGraphicsModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gmodifier/AbstractGraphicsModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gmodifier/GraphicsModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gmodifier/GraphicsModifierFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/closed/ArrowGraphicsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/closed/ClosedGraphicsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/closed/RectGraphicsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/entities/VerifyIntersectShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/entities/Graphics2DPainter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/event/EventAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/event/EventAttributeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/event/EventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/event/MouseButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/unclosed/LineGraphicsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/unclosed/PolylineGraphicsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/unclosed/UnclosedGraphicsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/GraphicsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/GraphicsParserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/gparser/AbstractGraphicsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/shared/SharedPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/util/ArrowUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/util/ClassUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/util/JSONUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/util/NumberUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xiangqian/s2d/ApplicationMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>swing-2d:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>jdk1.8.0_66</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>swing-2d</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>jdk1.8.0_66</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.8.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
